@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ahmed Mubarek! <br/>Database Developer</h1>
+<h1>Hi, I'm Ahmed! <br/>Database Developer</h1>
 
 <h2>👨‍💻 Database Developing Projects:</h2>
 
