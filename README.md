@@ -1,20 +1,37 @@
-<h1>Hi, I'm Ahmed! <br/>Database Developer</h1>
+# Hello and Welcome, I'm Ahmed Mubarek!
 
-<h2>👨‍💻 Database Developing Projects:</h2>
+## I'm Database Developer and Instructor
+
+### Access Database
 
 - <b>Full databases</b>
-  - [Full Access databases Library](https://github.com/AhmedMubarek696/Full_Access_Databases)
-- <b>Learn Designing Databases from scratch on Youtube</b>
-  - [Full Access databases Playlist](https://www.youtube.com/watch?v=27oOZn82SWQ&list=PLtZl0m5A-CnTL-866CDAXxMRXqpBrrdp1)
-  - [English Tutorials Playlist](https://www.youtube.com/watch?v=hrKNkjf50iA&list=PLtZl0m5A-CnS7eprkhJRVT6C3U09BQobw)
-  - [Arabic Tutorials Playlist](https://www.youtube.com/watch?v=WJiKvlfM5_k&list=PLtZl0m5A-CnRAhBxr70PAwieU23JGn56a)
+  - [Applications 2 (Github)](https://github.com/AhmedMubarek696/Full_Access_Databases)
+  - [Applications 1 (Behance)](https://www.behance.net/AhmedMubarek696)
+  - [Preview Applications (YouTube)](https://www.youtube.com/watch?v=27oOZn82SWQ&list=PLtZl0m5A-CnTL-866CDAXxMRXqpBrrdp1)
 
-<h2> 🤳 Connect with me:</h2>
+- <b>Tutorials</b>
+  - [English Tutorials (YouTube)](https://www.youtube.com/watch?v=hrKNkjf50iA&list=PLtZl0m5A-CnS7eprkhJRVT6C3U09BQobw)
+  - [Arabic Tutorials (YouTube)](https://www.youtube.com/watch?v=WJiKvlfM5_k&list=PLtZl0m5A-CnRAhBxr70PAwieU23JGn56a)
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+## 🤳 Connect with me:
+
+[<img align="left" alt="Ahmed Mohammed | YouTube" width="22px" src="https://cdn.simpleicons.org/youtube/FF0000" />][youtube]
 
 [youtube]: https://www.youtube.com/@AhmedMohammed-gg5kx
+<br>
 
+## Example Applications and Tutorials
+<a href="https://github.com/AhmedMubarek696/Full_Access_Databases/1_Student_Score" alt="1_Student_Score Application" title="1_Student_Score Application">
+<img src="Images/1.PNG" width="300">
+</a>
+
+<a href="https://github.com/AhmedMubarek696/Full_Access_Databases/2_Account_Balance" alt="2_Account_Balance Application" title="2_Account_Balance Application">
+<img src="Images/2.PNG" width="300">
+</a>
+
+<a href="https://www.youtube.com/watch?v=hrKNkjf50iA&list=PLtZl0m5A-CnS7eprkhJRVT6C3U09BQobw" alt="English Tutorials YouTube" title="English Tutorials YouTube">
+<img src="Images/3.PNG" width="300">
+</a>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
