@@ -22,15 +22,15 @@
 
 ## Example Applications and Tutorials
 <a href="https://github.com/AhmedMubarek696/Full_Access_Databases/tree/main/1_Student_Score" alt="1_Student_Score Application" title="1_Student_Score Application">
-<img src="Images/1.PNG" width="300">
+<img src="Images/1.PNG" width="240">
 </a>
 
 <a href="https://github.com/AhmedMubarek696/Full_Access_Databases/tree/main/2_Account_Balance" alt="2_Account_Balance Application" title="2_Account_Balance Application">
-<img src="Images/2.PNG" width="300">
+<img src="Images/2.PNG" width="240">
 </a>
 
 <a href="https://www.youtube.com/watch?v=hrKNkjf50iA&list=PLtZl0m5A-CnS7eprkhJRVT6C3U09BQobw" alt="English Tutorials YouTube" title="English Tutorials YouTube">
-<img src="Images/3.PNG" width="300">
+<img src="Images/3.PNG" width="240">
 </a>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
