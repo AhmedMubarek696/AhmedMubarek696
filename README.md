@@ -21,11 +21,11 @@
 <br>
 
 ## Example Applications and Tutorials
-<a href="https://github.com/AhmedMubarek696/Full_Access_Databases/1_Student_Score" alt="1_Student_Score Application" title="1_Student_Score Application">
+<a href="https://github.com/AhmedMubarek696/Full_Access_Databases/tree/main/1_Student_Score" alt="1_Student_Score Application" title="1_Student_Score Application">
 <img src="Images/1.PNG" width="300">
 </a>
 
-<a href="https://github.com/AhmedMubarek696/Full_Access_Databases/2_Account_Balance" alt="2_Account_Balance Application" title="2_Account_Balance Application">
+<a href="https://github.com/AhmedMubarek696/Full_Access_Databases/tree/main/2_Account_Balance" alt="2_Account_Balance Application" title="2_Account_Balance Application">
 <img src="Images/2.PNG" width="300">
 </a>
 
