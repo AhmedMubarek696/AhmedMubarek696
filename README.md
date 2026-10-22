@@ -18,7 +18,7 @@
 
 [<img align="left" alt="Ahmed Mohammed | YouTube" width="22px" src="https://cdn.simpleicons.org/youtube/FF0000" />][youtube]
 
-[youtube]: https://www.youtube.com/@AhmedMohammed-gg5kx
+[youtube]: https://www.youtube.com/@AhmedMubarek696
 <br>
 
 ## Example Applications and Tutorials
